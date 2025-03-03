@@ -2,8 +2,8 @@
 Final Project of Bachelor Degree of Engineering in Information Technology - NUOL 2021
 
 
-Authorized by Thong Thao 
-Copyright (c) 2021, NUOL
+---- Authorized by Thong Thao 
+Copyright (c) 2021, NUOL ----
  
 
 Chapter 1
